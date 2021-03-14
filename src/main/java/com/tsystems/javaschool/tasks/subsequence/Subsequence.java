@@ -20,13 +20,8 @@ public class Subsequence {
         if (x.size() == 0) return true;
 
         for (int i = 0, j = 0; i < y.size(); i++) {
-            if (y.get(0) instanceof String) {
                 if (y.get(i).equals(x.get(j)) && j < x.size() - 1) j++;
                 if (y.get(i).equals(x.get(j)) && j == x.size() - 1) return true;
-            } else {
-                if (y.get(i) == x.get(j) && j < x.size() - 1) j++;
-                if (y.get(i) == x.get(j) && j == x.size() - 1) return true;
-            }
         }
         return false;
     }

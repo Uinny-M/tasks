@@ -41,6 +41,8 @@ public class Calculator {
         double result;
         if (simpleStr.contains("/-"))
             simpleStr = simpleStr.replaceAll("/-", "/&");
+//        if (simpleStr.contains("*-"))
+//        simpleStr = simpleStr.replaceAll("*-", "*&");
 
         //получение массива математических операторов
         String math = simpleStr.replaceAll("\\d", ""); //операторы
