@@ -11,11 +11,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {PUT YOUR NAME HERE}
-* Codeship : {PUT YOUR CODESHIP BAGDE HERE}
-
-Example of Codeship badge. Please remove the example before you send us the link. 
-[![Codeship Status for Uinny-M/tasks](https://app.codeship.com/projects/c2f836eb-a7e2-43f4-a2f6-55c0784cc621/status?branch=master)](https://app.codeship.com/projects/434288)
+* Author name : {Margarita Medvedeva}
+* Codeship : [![Codeship Status for Uinny-M/tasks](https://app.codeship.com/projects/c2f836eb-a7e2-43f4-a2f6-55c0784cc621/status?branch=master)](https://app.codeship.com/projects/434288)
 
 
 ### How to start?  ###
